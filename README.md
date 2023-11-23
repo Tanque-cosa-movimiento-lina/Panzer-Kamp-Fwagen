@@ -1,9 +1,9 @@
-# Panzer-Kamp-Fwagen This is an H1
-=============
+# Panzer-Kamp-Fwagen
+====================
  
  Robot
 
-# Mambres del grup This is an H2
+# Mambres del grup
 ------------------
 
  Izan
