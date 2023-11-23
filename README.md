@@ -8,4 +8,4 @@
  
  Kevin
 
-![Alt text](IMG_20231122_130634.jpg "Coca")
+![Esbos](IMG_20231122_130634.jpg "Coca")
